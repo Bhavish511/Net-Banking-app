@@ -1,0 +1,3 @@
+amna 200
+amna -100
+amna -20
